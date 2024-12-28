@@ -24,7 +24,7 @@ const Review = ({ reviewerName, reviewDate, reviewText, initialRating }) => {
                 key={index}
                 className={`cursor-pointer ${index < rating ? "text-yellow-500" : "text-gray-300"
                   }`}
-              // Update rating on click
+
               />
             ))}
           </div>

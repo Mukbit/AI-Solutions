@@ -57,7 +57,6 @@ const ProjectList = () => {
       id: 7,
       title: "OmniGuard AI: Unmatched Protection, Always One Step Ahead",
       date: "2024-11-15",
-      // description: "Get your ideas off the ground without breaking the bank!",
       feedback: "Helped me kickstart my project with ease.",
       image: "https://storage.googleapis.com/a1aa/image/c016501c-4996-4097-9d98-f46cc3b5aad7.jpeg",
     },
@@ -65,8 +64,6 @@ const ProjectList = () => {
       id: 8,
       title: "DocuVerse AI: Effortless Document Management, Powered by AI",
       date: "2024-11-10",
-      // description:
-      //   "Hear from our clients about their jaw-dropping transformations with our AI magic!",
       feedback: "Our business doubled revenue thanks to these AI solutions!",
       image: "https://storage.googleapis.com/a1aa/image/ed904b33-07ec-442d-898c-3f5f78f6a330.jpeg",
     },

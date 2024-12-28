@@ -1,3 +1,6 @@
 {
-  "/(dashboard)/(routes)/customer-inquiry/page": "app/(dashboard)/(routes)/customer-inquiry/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(landing)/page": "app/(landing)/page.js",
+  "/(dashboard)/(routes)/dashboard/page": "app/(dashboard)/(routes)/dashboard/page.js",
+  "/(auth)/(routes)/sign-in/[[...sign-in]]/page": "app/(auth)/(routes)/sign-in/[[...sign-in]]/page.js"
 }
